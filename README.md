@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashi0505&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashi0505&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ashi0505/Ashi0505/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
